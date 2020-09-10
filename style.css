@@ -1,79 +1,56 @@
-.white-top{
-    background-color:white;
-    margin:0%;
+.lightblue-background{
+    background-color: skyblue;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
-.white-inside{
+
+.topnav{
+    margin: 5px;
+    background-color: white;
+}
+
+.topnav input{
+    margin: 5px;
+    float:right;
+    background-color: blue;
+    border-style: solid;
+    border-width: 5px;
+    text-align: center;
+    border-color:black;
+    color:white;
+}
+
+.topnav p{
+    border-style: solid;
+    border-width: 20px;
+    text-align: center;
+    border-color:black;
+}
+
+
+.middlepage{
     background-color:white;
     margin-left: 35%;
     margin-right: 35%;
-
     padding:20px;
     padding-left:40px;
 }
 
-.lightblue-background{
-    background-color: skyblue;
+.middlepage input{
+    background-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color:black;
+    color:black;
 }
 
-.top-link-button{
+.middlepage p{
     background-color: blue;
-    margin-left:10%;
-    margin-right:10%;
-    margin-bottom:5%;
-    margin-top:5%;
-
-    padding: 10px 10px 10px 10px;
-
     border-style: solid;
     border-width: 5px;
-
     text-align: center;
-
+    border-color:black;
     color:white;
-}
-
-
-
-
-.info-button{
-    margin-left:10%;
-    margin-right:10%;
-    margin-bottom:5%;
-    margin-top:5%;
-
-    padding: 10px 10px 10px 10px;
-
-    border-style: solid;
-    border-width: 5px;
-
-
-}
-
-.link-button{
-    background-color: blue;
-    margin-left:10%;
-    margin-right:10%;
-    margin-bottom:5%;
-    margin-top:5%;
-
-    padding: 10px 10px 10px 10px;
-
-    border-style: solid;
-    border-width: 5px;
-
-    text-align: center;
-
-    color:white;
-}
-
-.image-button{
-    background-color:white;
-    margin-left:5%;
-    margin-bottom:10%;
-
-    border-radius: 150px;
-    float:left;
 }
 
 .circle{
